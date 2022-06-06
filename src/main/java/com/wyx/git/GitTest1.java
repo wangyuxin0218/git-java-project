@@ -5,6 +5,6 @@ public class GitTest1 {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hello git3 pppppab");
-        System.out.println("hello git4 push");
+        System.out.println("hello git4 push-网上修改");
     }
 }
